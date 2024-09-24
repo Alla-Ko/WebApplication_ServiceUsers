@@ -1,4 +1,4 @@
-const url_api = "https://localhost:7241/api/home";
+const url_api = "/api/home";
 let selectedUser = null;
 
 document.addEventListener("DOMContentLoaded", function () {
